@@ -1,0 +1,21 @@
+#divider{
+    border-color: rgba(255, 255, 255, 0.3);
+}
+#card{
+    margin-top: 5%;
+}
+#select{
+    width: 30%;
+    background-color: white;
+    border-radius: 5px;
+}
+#stackStyle{
+    justify-content: center;
+    margin-top: 5%;
+}
+#name{
+    font-size: 1.5rem
+}
+#demo-simple-select-label{
+    font-size: 1.5rem;
+}
